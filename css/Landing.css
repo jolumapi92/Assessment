@@ -1,0 +1,22 @@
+#title {
+    color: #6961ff;
+}
+
+#logo-landing {
+    position: relative;
+}
+
+.container-main-landing {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-languages {
+    background-color: #6961ff;
+    border: none;
+    border-radius: 6px;
+    color: azure;
+}
